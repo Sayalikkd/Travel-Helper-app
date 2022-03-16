@@ -17,7 +17,6 @@ In this video, you'll learn:
 [Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
 [Open Weather Map API](https://rapidapi.com/community/api/open-weather-map?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
-
+### Project inspired from 
+[https://www.youtube.com/watch?v=UKdQjQX1Pko&t=55s] (https://www.youtube.com/watch?v=UKdQjQX1Pko&t=55s)
 Setup: run ```npm i && npm start``` to start the development server
